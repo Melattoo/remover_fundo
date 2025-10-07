@@ -30,3 +30,7 @@ Um aplicativo web simples feito com **Streamlit** que permite remover automatica
 2. A imagem original será exibida na tela.
 3. O fundo da imagem será removido automaticamente.
 4. Você verá a **imagem sem fundo** e poderá baixá-la clicando no botão de download.
+
+
+
+link: https://melattoo-remover-fundo-app-bnikv8.streamlit.app/
